@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+Preloading slave TX data (2-bit value)...
+Starting SPI Transaction:
+  Master sends: 1abc
+  Expecting slave to send: 11 (padded to 15 bits)
+SPI Transaction Complete:
+  Master received: 0003 (RX Count: 1)
+  Slave received:  1abc
+$finish called at time : 895 ns : File "/home/root1/Jobanpreet/spi_check/spi_check.srcs/sim_1/new/spi_top_tb.sv" Line 114

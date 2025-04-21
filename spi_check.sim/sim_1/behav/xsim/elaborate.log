@@ -1,0 +1,18 @@
+Vivado Simulator v2023.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: /tools/Xilinx/Vivado/2023.2/bin/unwrapped/lnx64.o/xelab --incr --debug typical --relax --mt 8 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot spi_top_tb_behav xil_defaultlib.spi_top_tb xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.SPI_Master(DATA_WIDTH=15)
+Compiling module xil_defaultlib.SPI_Master_With_Single_CS(DATA_W...
+Compiling module xil_defaultlib.SPI_Slave_default
+Compiling module xil_defaultlib.spi_top
+Compiling module xil_defaultlib.spi_top_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot spi_top_tb_behav
