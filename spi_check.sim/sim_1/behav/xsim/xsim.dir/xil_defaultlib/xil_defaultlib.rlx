@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 13 2023
+20:21:30
+/home/root1/Jobanpreet/spi_check/spi_check.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,uvm,,,,,,
+/home/root1/Jobanpreet/spi_check/spi_check.srcs/sim_1/new/spi_top_tb.sv,1744095423,systemVerilog,,,,spi_top_tb,,uvm,,,,,,
+/home/root1/Jobanpreet/spi_check/spi_check.srcs/sources_1/imports/source/SPI_Master_With_Single_CS.v,1744095205,verilog,,/home/root1/Jobanpreet/spi_check/spi_check.srcs/sources_1/imports/spi_dep/spi-slave/Verilog/source/SPI_Slave.v,,SPI_Master_With_Single_CS,,uvm,,,,,,
+/home/root1/Jobanpreet/spi_check/spi_check.srcs/sources_1/imports/spi_dep/spi-master/Verilog/source/SPI_Master.v,1744095244,verilog,,/home/root1/Jobanpreet/spi_check/spi_check.srcs/sources_1/imports/source/SPI_Master_With_Single_CS.v,,SPI_Master,,uvm,,,,,,
+/home/root1/Jobanpreet/spi_check/spi_check.srcs/sources_1/imports/spi_dep/spi-slave/Verilog/source/SPI_Slave.v,1744095267,verilog,,/home/root1/Jobanpreet/spi_check/spi_check.srcs/sources_1/new/spi_top.v,,SPI_Slave,,uvm,,,,,,
+/home/root1/Jobanpreet/spi_check/spi_check.srcs/sources_1/new/spi_top.v,1744095138,verilog,,,,spi_top,,uvm,,,,,,
